@@ -1,11 +1,11 @@
-<img width="885" height="602" alt="image" src="https://github.com/user-attachments/assets/ab9bd57e-3183-49ba-a03c-66594129bf72" /># Group_F
+# Group_F
 
 |    NRP     |           Nama             |
 | :--------: |       :------------:       |
-| Aqilah Ibrahim | 5025251260                    |
-| Valian Athalla Syahputra | 5025257756                    |
-| Rizqi Arya Kuskhilbyano | 5025251161                    |
-| Athar Rozy Rasyidan | 5025251009                    |
+| Aqilah Ibrahim           | 5025251260   |
+| Valian Athalla Syahputra | 5025257756   |
+| Rizqi Arya Kuskhilbyano  | 5025251161   |
+| Athar Rozy Rasyidan      | 5025251009   |
 
 MST Problem Island Hopping
 
